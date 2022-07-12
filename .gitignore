@@ -4,5 +4,5 @@ requirements_full_list.txt
 Pipfile
 Pipfile.lock
 archive
-__pycahce__
+__pycache__
 .vscode
